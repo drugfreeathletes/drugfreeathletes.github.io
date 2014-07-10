@@ -1,0 +1,69 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Bangers', cursive;
+}
+
+p {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.item a {
+  font-family: 'Bangers', cursive;
+  text-decoration: none;
+}
+
+.item a:hover {
+  text-decoration: underline;
+}
+
+.button {
+  font-family: 'Bangers', cursive;
+}
+
+section {
+  margin: 0 auto;
+  padding: 100px 0px 100px 0px;
+}
+
+header {
+  /* background: url(http://placehold.it/1500x700); */
+  background-color: #0099cc;
+  margin: 0 auto;
+  padding: 150px 0px 150px 0px;
+}
+
+footer {
+  background-color: #0099cc;
+  margin: 0 auto;
+  padding: 100px 0px 100px 0px;
+}
+
+#drug-free-movement {
+  background-color: #333333;
+  margin: 0 auto;
+  padding: 100px 0px 100px 0px;
+}
+
+#track-field {
+  background-image: url(../images/track-field-gray.jpg);
+  margin: 0 auto;
+  padding: 40px 0px 40px 0px;
+}
+
+.image-divider {
+  background-image: url(http://placehold.it/1500x100);
+  margin: 0 auto;
+  padding: 0px;
+}
+
+.enormous {
+  font-size: 72px;
+  line-height: 142px;
+  margin: 0;
+  padding: 0;
+}
